@@ -27,20 +27,21 @@ Here are some ideas to get you started:
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devchaitanya&label=Profile%20views&color=0e75b6&style=flat" alt="devchaitanya" /> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/ck_dev27" target="blank"><img src="https://img.shields.io/twitter/follow/ck_dev27?logo=twitter&style=for-the-badge" alt="ck_dev27" /></a> </p> -->
+
+<!--- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.--->
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with NodeJS, ReactJS, Android, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-<!--- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.--->
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: girishtheja116@gmail.com.
 
 <br>
 Like My Work?
-
+<br>
 <a href="https://www.buymeacoffee.com/girishtheja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="400" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/girish-theja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya kamasani" height="30" width="40" /></a>
