@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F70C0C&center=true&width=500&height=60&lines=Aspiring+full-stack-developer!;Exploring+deep+learning+and+AI!!" alt="Typing SVG" /></a>
 </p>
 <img align="left" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Girishtheja">
-<img align="right" alt="Coding" width="400" height="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" height="250" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <br>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devchaitanya&label=Profile%20views&color=0e75b6&style=flat" alt="devchaitanya" /> </p> -->
 
@@ -86,9 +86,9 @@ Like My Work?
 
   
 <a href="https://github.com/Girishtheja/github-readme-stats"><img alt="Girishtheja's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Girishtheja&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+&nbsp; &nbsp; &nbsp; 
 <a href="https://github.com/Girishtheja/github-readme-stats"><img alt="Girishtheja's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girishtheja&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px" width="400px"/></a>
 <br/>
-
 <a href="https://github.com/Girishtheja/github-readme-activity-graph"><img alt="Girishtheja's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Girishtheja&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
