@@ -70,7 +70,7 @@ Like My Work?
 -->
 <br>
 <br>
-<h2>📊 Github Stats and Activity</h2>
+<h2>Projects and Dev Stuffs:</h2>
 
 <h3 align="center">☄️ Github Streaks</h3>
 
