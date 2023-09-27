@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <!-- GitHub Readme Streak Stats - https://github.com/Girishtheja/github-readme-streak-stats -->
 <p>
   <a href="https://github.com/Girishtheja/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="devchaitanya's streak" src="https://streak-stats.demolab.com/?user=devchaitanya&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="devchaitanya's streak" src="https://streak-stats.demolab.com/?user=Girishtheja&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
