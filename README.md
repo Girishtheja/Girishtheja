@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7F7&multiline=true&width=435&lines=Greeting%2C+Girish+here...;Good+to+see+you+on+the+other+side!" alt="Typing SVG" /></a>
- <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7F7&center=true&multiline=true&width=435&height=60&lines=Greeting%2C+Girish+here...;Good+to+see+you+on+the+other+side!" alt="Typing SVG" /></a>
 </h1>
 <br>
 <p align="center">
