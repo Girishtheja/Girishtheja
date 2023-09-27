@@ -108,11 +108,11 @@ Like My Work?
 </details>
 
 #
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="[https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif](https://camo.githubusercontent.com/927cb83cb2cbcc9096b44cf0d362f552cdda786d2a1b2c209e353f822e97e52e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38642f34622f37372f38643462373763343462376136386330666436303934313165326330656333632e676966)https://camo.githubusercontent.com/927cb83cb2cbcc9096b44cf0d362f552cdda786d2a1b2c209e353f822e97e52e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38642f34622f37372f38643462373763343462376136386330666436303934313165326330656333632e676966" />
 
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
-<img align="center" height="250" width="375" alt="" src="https://camo.githubusercontent.com/927cb83cb2cbcc9096b44cf0d362f552cdda786d2a1b2c209e353f822e97e52e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38642f34622f37372f38643462373763343462376136386330666436303934313165326330656333632e676966 />
+
