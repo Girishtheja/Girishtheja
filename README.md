@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <!--- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.--->
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: girishtheja116@gmail.com.
+
+<br>
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/girishtheja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
