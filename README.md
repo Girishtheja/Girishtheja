@@ -75,8 +75,8 @@ Like My Work?
 <h3 align="center">☄️ Github Streaks</h3>
 
 <!-- GitHub Readme Streak Stats - https://github.com/Girishtheja/github-readme-streak-stats -->
-<p>
-  <a align="center" href="https://github.com/Girishtheja/github-readme-streak-stats">
+<p align="center">
+  <a href="https://github.com/Girishtheja/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Girishtheja's streak" src="https://streak-stats.demolab.com/?user=Girishtheja&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
