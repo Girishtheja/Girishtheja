@@ -123,7 +123,7 @@ Like My Work?
   	    <li><b>Browser: </b> Chrome & Brave</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion </li>
+ 	    <li><b>Other Tools:</b> Postman, Notion(on phone),obsidian</li>
 	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
 	</ul>
 </details>
