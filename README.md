@@ -21,8 +21,12 @@ Here are some ideas to get you started:
 <p align="center">
  <!--  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+full-stack-developer!" alt="Typing SVG" /></a> -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=04F76F&center=true&width=500&height=60&lines=Aspiring+Full-stack-developer!;Exploring+deep+learning+and+AI!!" alt="Typing SVG" /></a>
-<br/>
+<p>
+	
 <img align="left" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Girishtheja">
+
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/girish-theja" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Girish%20Theja-blue?style=flat&logo=linkedin" alt="LinkedIn">
