@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Profile Views" src="https://komarev.com/ghpvc/?username=Girishtheja">
 
 </p>
-
+<br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/girish-theja" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Girish%20Theja-blue?style=flat&logo=linkedin" alt="LinkedIn">
