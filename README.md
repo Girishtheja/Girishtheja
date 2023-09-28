@@ -113,7 +113,8 @@ Like My Work?
 <a href="https://github.com/Girishtheja/github-readme-activity-graph"><img alt="Girishtheja's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Girishtheja&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
