@@ -105,7 +105,8 @@ Like My Work?
 </div>
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+
+### [Show some ❤️ by starring some of the repositories! ](https://github.com/Girishtheja?tab=repositories)
 
 </div>
 
