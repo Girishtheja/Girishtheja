@@ -115,3 +115,9 @@ Like My Work?
 ### [Show some ❤️ by starring some of the repositories! ](https://github.com/Girishtheja?tab=repositories)
 
 </div>
+
+<table> 
+  <tr>
+    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preyash-tryin-to-code&theme=monokai"  display=block width=100% height=auto alt="1"></p>
+   </tr>
+</table>
