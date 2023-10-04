@@ -64,16 +64,6 @@ Like My Work?
 
 <h2>Projects and Dev Stuffs:</h2>
 
-<h3 align="center">☄️ Github Streaks</h3>
-
-<!-- GitHub Readme Streak Stats - https://github.com/Girishtheja/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/Girishtheja/github-readme-streak-stats">
-    <img title=" Get streak stats for your profile at git.io/streak-stats" alt="Girishtheja's streak" src="https://streak-stats.demolab.com/?user=Girishtheja&theme=monokai-metallian&hide_border=true" width="500px"/>
-  </a>
-</p>
-
-<h3 align="center">💻 GitHub Profile Stats</h3>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -86,6 +76,17 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<h3 align="center">☄️ Github Streaks</h3>
+
+<!-- GitHub Readme Streak Stats - https://github.com/Girishtheja/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/Girishtheja/github-readme-streak-stats">
+    <img title=" Get streak stats for your profile at git.io/streak-stats" alt="Girishtheja's streak" src="https://streak-stats.demolab.com/?user=Girishtheja&theme=monokai-metallian&hide_border=true" width="500px"/>
+  </a>
+</p>
+
+<h3 align="center">💻 GitHub Profile Stats</h3>
+
 <a href="https://github.com/Girishtheja/github-readme-stats"><img alt="Girishtheja's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Girishtheja&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/Girishtheja/github-readme-stats"><img alt="Girishtheja's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girishtheja&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
@@ -96,15 +97,18 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
 </div>
 
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Girishtheja/Girishtheja/output/snake.svg" alt="Snake animation" />
+</p>
+
 <table> 
   <tr>
     <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Girishtheja&theme=monokai"  display=block width=100% height=auto alt="1"></p>
    </tr>
 </table>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Girishtheja/Girishtheja/output/snake.svg" alt="Snake animation" />
-</p>
+
 
 <details>
   <br />
