@@ -101,13 +101,13 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <p align="center">
 <img src="https://raw.githubusercontent.com/Girishtheja/Girishtheja/output/snake.svg" alt="Snake animation" />
 </p>
-<!--
+
 <table> 
   <tr>
     <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Girishtheja&theme=monokai"  display=block width=100% height=auto alt="1"></p>
    </tr>
 </table>
---!>
+
 
 <details>
   <br />
