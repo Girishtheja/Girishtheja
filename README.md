@@ -125,3 +125,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
     <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preyash-tryin-to-code&theme=monokai"  display=block width=100% height=auto alt="1"></p>
    </tr>
 </table>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Preyash-tryin-to-code/Preyash-tryin-to-code/output/snake.svg" alt="Snake animation" />
+</p>
