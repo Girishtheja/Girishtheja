@@ -77,7 +77,11 @@ Like My Work?
 <!--START_SECTION:waka-->
 
 ```txt
-
+HTML         3 hrs 3 mins    ███████████████░░░░░░░░░░   60.10 %
+GDScript3    1 hr 36 mins    ████████░░░░░░░░░░░░░░░░░   31.71 %
+Python       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
