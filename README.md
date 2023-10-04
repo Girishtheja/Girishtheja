@@ -94,6 +94,17 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <a href="https://github.com/Girishtheja/github-readme-activity-graph"><img alt="Girishtheja's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Girishtheja&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
+</div>
+
+<table> 
+  <tr>
+    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Girishtheja&theme=monokai"  display=block width=100% height=auto alt="1"></p>
+   </tr>
+</table>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Girishtheja/Girishtheja/output/snake.svg" alt="Snake animation" />
+</p>
 
 <details>
   <br />
@@ -118,14 +129,3 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 ### [Show some ❤️ by starring some of the repositories! ](https://github.com/Girishtheja?tab=repositories)
 
-</div>
-
-<table> 
-  <tr>
-    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Preyash-tryin-to-code&theme=monokai"  display=block width=100% height=auto alt="1"></p>
-   </tr>
-</table>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Preyash-tryin-to-code/Preyash-tryin-to-code/output/snake.svg" alt="Snake animation" />
-</p>
