@@ -59,8 +59,20 @@ Like My Work?
 <code><img title="Flask" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/flask.png"></code>
 <br>
 <br>
-<br/>
-<br>
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> ubuntu </li>
+	    <li><b>Laptop: </b> MSI GL65 LEOPORD</li>
+  	    <li><b>Browser: </b> Chrome & Brave</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+ 	    <li><b>Other Tools:</b> Postman, Notion(on phone),obsidian</li>
+	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+	</ul>
+</details>
+
 
 <h2>Projects and Dev Stuffs:</h2>
 
@@ -88,20 +100,10 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <h3 align="center">💻 GitHub Profile Stats</h3>
 
 <a href="https://github.com/Girishtheja/github-readme-stats"><img alt="Girishtheja's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Girishtheja&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Girishtheja/github-readme-stats"><img alt="Girishtheja's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girishtheja&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 <br/>
-<a href="https://github.com/Girishtheja/github-readme-activity-graph"><img alt="Girishtheja's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Girishtheja&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-<b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
-</div>
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Girishtheja/Girishtheja/output/snake.svg" alt="Snake animation" />
-</p>
-
 <table> 
   <tr>
     <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Girishtheja&theme=monokai"  display=block width=100% height=auto alt="1"></p>
@@ -109,24 +111,24 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 </table>
 
 
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> ubuntu </li>
-	    <li><b>Laptop: </b> MSI GL65 LEOPORD</li>
-  	    <li><b>Browser: </b> Chrome & Brave</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion(on phone),obsidian</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
-	</ul>
-</details>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Girishtheja/Girishtheja/output/snake.svg" alt="Snake animation" />
+</p>
+
+
+<a href="https://github.com/Girishtheja/github-readme-activity-graph"><img alt="Girishtheja's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Girishtheja&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
+</div>
+
+
+
 
 #
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="center">
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="center" width=50% height=50%>
 </div>
 <div align="center">
 
