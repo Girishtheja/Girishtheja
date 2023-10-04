@@ -75,7 +75,11 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+<table> 
+  <tr>
+    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Girishtheja&theme=monokai"  display=block width=100% height=auto alt="1"></p>
+   </tr>
+</table>
 <h3 align="center">☄️ Github Streaks</h3>
 
 <!-- GitHub Readme Streak Stats - https://github.com/Girishtheja/github-readme-streak-stats -->
@@ -102,11 +106,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 <img src="https://raw.githubusercontent.com/Girishtheja/Girishtheja/output/snake.svg" alt="Snake animation" />
 </p>
 
-<table> 
-  <tr>
-    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Girishtheja&theme=monokai"  display=block width=100% height=auto alt="1"></p>
-   </tr>
-</table>
 
 
 
