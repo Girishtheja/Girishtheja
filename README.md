@@ -1,4 +1,3 @@
-
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7F7&center=true&width=500&height=60&lines=Hi+There!%2C+Girish+here+.......;Glad+you+are+here!" alt="Typing SVG" /></a>
 </h1>
@@ -43,6 +42,7 @@ Like My Work?
 </p>
 
 ### Languages and Tools:
+
 <code><img title="Android" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
 <code><img title="GitHub" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
@@ -61,6 +61,7 @@ Like My Work?
 <br>
 <br/>
 <br>
+
 <h2>Projects and Dev Stuffs:</h2>
 
 <h3 align="center">☄️ Github Streaks</h3>
@@ -73,18 +74,23 @@ Like My Work?
 </p>
 
 <h3 align="center">💻 GitHub Profile Stats</h3>
+<!--START_SECTION:waka-->
 
-  
+```txt
+
+```
+
+<!--END_SECTION:waka-->
+
 <a href="https://github.com/Girishtheja/github-readme-stats"><img alt="Girishtheja's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Girishtheja&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/Girishtheja/github-readme-stats"><img alt="Girishtheja's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girishtheja&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 <br/>
 <a href="https://github.com/Girishtheja/github-readme-activity-graph"><img alt="Girishtheja's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Girishtheja&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 <details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
@@ -100,15 +106,12 @@ Like My Work?
 </details>
 
 #
+
 <div align="center">
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="center">
 </div>
 <div align="center">
 
-
 ### [Show some ❤️ by starring some of the repositories! ](https://github.com/Girishtheja?tab=repositories)
 
 </div>
-
-  
-
