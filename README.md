@@ -120,6 +120,7 @@ Bash         16 mins         █░░░░░░░░░░░░░░░░
 <img src="https://raw.githubusercontent.com/Girishtheja/Girishtheja/output/snake.svg" alt="Snake animation" />
 </p>
 
+[![An image of @girishtheja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/girishtheja)](https://holopin.io/@girishtheja)
 
 <a href="https://github.com/Girishtheja/github-readme-activity-graph"><img alt="Girishtheja's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Girishtheja&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
