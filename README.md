@@ -1,4 +1,3 @@
-
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7F7&center=true&width=500&height=60&lines=Hi+There!%2C+Girish+here+.......;Glad+you+are+here!" alt="Typing SVG" /></a>
 </h1>
@@ -78,7 +77,6 @@ Like My Work?
 	</ul>
 </details>
 
-
 <h2>Projects and Dev Stuffs:</h2>
 
 <h3 align="center">☄️ Github Streaks</h3>
@@ -99,7 +97,6 @@ Python       1 hr 20 mins    ████░░░░░░░░░░░░░
 Markdown     1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
 Bash         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
-
 <!--END_SECTION:waka-->
 
 <h3 align="center">💻 GitHub Profile Stats</h3>
@@ -115,8 +112,6 @@ Bash         16 mins         █░░░░░░░░░░░░░░░░
    </tr>
 </table>
 
-
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Girishtheja/Girishtheja/output/snake.svg" alt="Snake animation" />
 </p>
@@ -128,9 +123,6 @@ Bash         16 mins         █░░░░░░░░░░░░░░░░
 <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
 </div>
 
-
-
-
 #
 
 <div align="center">
@@ -139,4 +131,3 @@ Bash         16 mins         █░░░░░░░░░░░░░░░░
 <div align="center">
 
 ### [Show some ❤️ by starring some of the repositories! ](https://github.com/Girishtheja?tab=repositories)
-
