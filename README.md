@@ -1,5 +1,6 @@
 <h1 align="center">
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7F7F7&center=true&width=500&height=60&lines=Hi+There!%2C+Girish+here+.......;Glad+you+are+here!" alt="Typing SVG" /></a>-->
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=5FF709&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+Girish+here+......;Glad+you+are+here!" alt="Typing SVG" /></a>
 </h1>
 <p align="center">
 <!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=04F76F&center=true&width=500&height=60&lines=Aspiring+Full-stack-developer!;Exploring+deep+learning+and+AI!!" alt="Typing SVG" /></a>-->
