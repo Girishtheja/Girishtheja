@@ -94,11 +94,11 @@ Like My Work?
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript     7 hrs 52 mins   ██████████▓░░░░░░░░░░░░░░   42.03 %
-HTML           4 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
-Python         2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-GDScript3      1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-Markdown       1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+JavaScript     7 hrs 52 mins   ███████████░░░░░░░░░░░░░░   44.23 %
+HTML           3 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
+Python         2 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+GDScript3      1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Markdown       1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
 ```
 
 <!--END_SECTION:waka-->
