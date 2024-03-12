@@ -94,11 +94,8 @@ Like My Work?
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         13 mins         █████████████░░░░░░░░░░░░   52.51 %
-Python       8 mins          ████████▒░░░░░░░░░░░░░░░░   33.64 %
-JavaScript   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Python     8 mins          ████████████████████████▓   98.02 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
