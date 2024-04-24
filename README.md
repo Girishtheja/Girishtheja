@@ -94,9 +94,7 @@ Like My Work?
 <!--START_SECTION:waka-->
 
 ```txt
-Python   6 mins          ███████████████████████░░   92.07 %
-HTML     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Python   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
