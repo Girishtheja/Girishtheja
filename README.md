@@ -23,11 +23,7 @@
   </a>
 </p>
 
-</p>
-
-
-
-<img align="right" alt="Coding" width="400" height="250" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <br>
 
 ### Talking about Personal Stuff:
@@ -41,29 +37,20 @@
 Like My Work?
 <br/>
 <br>
-<br/>
 
 <a href="https://www.buymeacoffee.com/girishtheja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <img align="right" height="250" width="400" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Languages and Tools:
 
-<code><img title="Android" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
-<code><img title="GitHub" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img title="npm" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/npm.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img title="Flask" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/flask.png"></code>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,aws,mongodb,git,npm,flask,androidstudio,github&perline=12" alt="Tech Stack" />
+  </a>
+</p>
 <br>
 <br>
 <details>
@@ -80,6 +67,8 @@ Like My Work?
 	</ul>
 </details>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h2>Projects and Dev Stuffs:</h2>
 
 <h3 align="center">☄️ Github Streaks</h3>
@@ -90,6 +79,8 @@ Like My Work?
     <img title=" Get streak stats for your profile at git.io/streak-stats" alt="Girishtheja's streak" src="https://streak-stats.demolab.com/?user=Girishtheja&theme=monokai-metallian&hide_border=true" width="600px" height="200px"/>
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--START_SECTION:waka-->
 
@@ -102,6 +93,8 @@ Svelte       1 hr 21 mins          █▒░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">💻 GitHub Profile Stats</h3>
 
@@ -127,7 +120,7 @@ Svelte       1 hr 21 mins          █▒░░░░░░░░░░░░░
 <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
 </div>
 
-#
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="center" width=60% height=70%>
