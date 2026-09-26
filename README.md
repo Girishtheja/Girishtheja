@@ -83,11 +83,11 @@ Like My Work?
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       2 hrs 39 mins         ██████████░░░░░░░░░░░░░░░   39.57 %
-JavaScript   2 hrs 21 mins         ████████▓░░░░░░░░░░░░░░░░   35.09 %
-Other        49 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-Markdown     31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-Python       9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Svelte       2 hrs 39 mins         █████████▓░░░░░░░░░░░░░░░   39.12 %
+JavaScript   2 hrs 21 mins         ████████▓░░░░░░░░░░░░░░░░   34.69 %
+Other        54 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Markdown     31 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+Python       9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
