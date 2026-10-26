@@ -83,9 +83,9 @@ Like My Work?
 <!--START_SECTION:waka-->
 
 ```txt
-Python       10 mins               ████████████░░░░░░░░░░░░░   47.71 %
-Other        9 mins                ██████████░░░░░░░░░░░░░░░   39.92 %
-JavaScript   2 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
+Python       10 mins               ███████████████░░░░░░░░░░   59.72 %
+Other        4 mins                ██████▒░░░░░░░░░░░░░░░░░░   24.79 %
+JavaScript   2 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
 ```
 
 <!--END_SECTION:waka-->
